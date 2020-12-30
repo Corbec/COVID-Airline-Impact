@@ -1,11 +1,11 @@
 # COVID-19 Impact on The Airline Industry in The United States
 
 ## Table of contents
-* [General Info](#general_info)
+* [General Info](#general-info)
 * [Background](#background)
-* [Data Questions](#data_questions)
+* [Data Questions](#data-questions)
 * [Technologies](#technologies)
-* [Data Sources](#data_sources)
+* [Data Sources](#data-sources)
 
 ## General Info
 This project is the capstone project for my Data Analysis course at the Nashville Software School. The course ran from Sep 2020 to Jan 2021.
