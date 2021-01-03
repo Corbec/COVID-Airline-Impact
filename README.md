@@ -4,6 +4,7 @@
 * [General Info](#general-info)
 * [Background](#background)
 * [Data Questions](#data-questions)
+* [Insights](#insights)
 * [Technologies](#technologies)
 * [Data Sources](#data-sources)
 
@@ -18,9 +19,18 @@ As a former airline pilot that worked for a company that permanently shut down b
 2. How did it impact the health of the airline industry?
 3. How did it change employment in the industry?
 
+## Insights
+![Passenger Impact](/images/passengers.png)
+
+![Industry Measures](/images/measures.png)
+
+![Employment Impact](/images/employees.png)
+
 ## Technologies
 This project is created with:
-* Python 3
+* Python 3.8.3
+  * Requests
+  * Beautiful Soup
 * Jupyter Notebook
 * Tableau
 * Excel
