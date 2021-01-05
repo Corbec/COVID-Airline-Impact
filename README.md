@@ -10,7 +10,8 @@
 
 ## General Info
 This project is the capstone project for my Data Analysis course at the Nashville Software School. The course ran from Sep 2020 to Jan 2021.
-The link for the presentation on Tableau Public is [here](https://public.tableau.com/profile/chris.mulvey#!/vizhome/NSSCapstoneCOVIDImpactonU_S_Airlines/CapstonePresentation?publish=yes)
+
+The link for the presentation on Tableau Public is [here](https://public.tableau.com/profile/chris.mulvey#!/vizhome/NSSCapstoneCOVIDImpactonU_S_Airlines/CapstonePresentation?publish=yes).
 
 ## Background
 As a former airline pilot that worked for a company that permanently shut down because of the COVID outbreak, I was curious to see the extent of the impact was to the industry. Using data from the CDC, Bureau of Transportation Statistics (BTS), and the TSA, I looked to see what insights I could gain on the impact.
